@@ -35,7 +35,7 @@ const projects = [
             url: "https://github.com/madebygrant/wp-sides",
             description: "A WordPress plugin and developer's toolkit for creating, adding custom sidebars to the block (Gutenberg) editor.",
             tech: ["php", "js", "react"]
-        },
+        }
     ]
 }
 ```
