@@ -5,7 +5,7 @@ const details = {
     name: "Grant Deelstra",
     nationality: "Australian",
     website: "madebygrant.com",
-    webdev_years: 8,
+    webdev_years: 10,
     spoken_languages: {
         aussie: 10,
         english: 9.8,
