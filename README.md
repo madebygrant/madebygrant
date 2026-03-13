@@ -14,30 +14,6 @@ const details = {
     humor: 9,
     pets: 2
 }
-
-/* Projects to check out */
-
-const projects = [
-        {
-            name: "Color Alias",
-            url: "https://www.coloralias.com",
-            description: "A super fast hex code colour naming tool! It also provides tints and shades for those colours.",
-            tech: ["svelte", "js", "sass", "html"]
-        },
-        {
-            name: "Obscure Email Link Generator",
-            url: "https://madebygrant.com/obscure-email",
-            description: "Generates obsfucated email links to prevent bots from scraping your email addresses.",
-            tech: ["js", "sass", "html"]
-        },
-        {
-            name: "WP Sides",
-            url: "https://github.com/madebygrant/wp-sides",
-            description: "A WordPress plugin and developer's toolkit for creating, adding custom sidebars to the block (Gutenberg) editor.",
-            tech: ["php", "js", "react"]
-        }
-    ]
-}
 ```
 
 ### Strong
@@ -45,8 +21,8 @@ const projects = [
 
 ### Familiar
 
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"><img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 
-### Other
+### Tools
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term alt="Ghostty" />
