@@ -25,4 +25,4 @@ const details = {
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term alt="Ghostty" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"><img src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term" alt="Ghostty" />
